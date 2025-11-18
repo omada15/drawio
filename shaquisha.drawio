@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="VGVHJwWEODLmAPMxaAkp">
-    <mxGraphModel dx="4553" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2869" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-144" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-105" target="_af6l9Ji_gPzgk1q_AI6-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -140,9 +143,6 @@
         </mxCell>
         <mxCell id="Zc8aFQpuToXCVCXsJ62N-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Zc8aFQpuToXCVCXsJ62N-30" target="Zc8aFQpuToXCVCXsJ62N-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Zc8aFQpuToXCVCXsJ62N-32" value="Jeffery Epstein" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zc8aFQpuToXCVCXsJ62N-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-410" y="500" width="50" height="360" as="geometry" />
@@ -633,6 +633,20 @@
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-65" value="Diddy Ding-dong II&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="1570" />
+              <mxPoint x="320" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-67" value="Diddy Ding-Dong- Sins-Sincheblue-Sencheblue-Sinchecombs-Willietta VIII&lt;div&gt;Positive for all STDs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-255" y="1540" width="120" height="120" as="geometry" />
         </mxCell>
@@ -713,6 +727,10 @@
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-88">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-20" y="1780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="1490" />
+              <mxPoint x="-20" y="1490" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-88" value="Mason Sweeney" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -727,17 +745,42 @@
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-94" value="Kim Jung-il" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-392.75" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-249.90476190476193" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-96" value="Kim Jung-Un" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-100" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-16.833333333333258" y="1365" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-101" value="Danny clank I&lt;div&gt;(genetic mix)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-84.5" y="1408" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-102" value="Optimal Prime II&lt;div&gt;(genetic mix)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="1408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-260" y="1800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-103" value="Maxim Dong (adopted)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-539.8" y="1580" width="120" height="60" as="geometry" />
@@ -748,8 +791,23 @@
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-107" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="225" y="1335" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-108" value="touching bot mk. I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-109" target="_af6l9Ji_gPzgk1q_AI6-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-109" value="Niggatron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="1380" width="120" height="60" as="geometry" />
@@ -773,6 +831,64 @@
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-116" value="Diddysniel Sinshlongcheblue IX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-159.99999999999977" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-120" value="Diddysniel Fentipsweensgoon&lt;div&gt;X&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-113" target="_af6l9Ji_gPzgk1q_AI6-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-125" value="Kim Jong Goon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-128" value="Alpha Predator Mk. I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1506" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-131" value="Emporer Stroker Mk. I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265.33333333333303" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-134" value="Shlong Eradicator Mk. I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205.33333333333303" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-136" value="Shlong Eradicatess&lt;div&gt;(transgender) Mk. I&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-139" value="Tsar Nicholas II" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="34" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-141" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=-0.164;exitY=0.776;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-820.0000000000001" y="650.0000000000002" as="sourcePoint" />
+            <mxPoint x="-819.64" y="13.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-142" value="Jeffery Epstein" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-143" value="Tsar Nicholas III" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-145" value="1912" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-146" value="1967" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-148" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-470" y="640" as="sourcePoint" />
+            <mxPoint x="-460" y="10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
