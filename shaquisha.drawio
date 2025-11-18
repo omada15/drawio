@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="VGVHJwWEODLmAPMxaAkp">
-    <mxGraphModel dx="2437" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1860" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-105" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-625" y="1550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-95" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-316.12" y="1640" width="132.25" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="Zc8aFQpuToXCVCXsJ62N-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zc8aFQpuToXCVCXsJ62N-1" target="Zc8aFQpuToXCVCXsJ62N-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10" y="400" as="targetPoint" />
@@ -669,12 +675,22 @@
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-41" value="Diddy Ding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="1284.75" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-44" value="Maxim &quot;max&quot; Faleleev-Hayward II" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-46" target="_af6l9Ji_gPzgk1q_AI6-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-80" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-46" value="Daniel Sins-Sincheblue-Sencheblue-Sinchecombs VI&lt;div&gt;(transgender, gay, EBT)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -700,6 +716,11 @@
             <mxPoint x="-210" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-65" value="Diddy Ding-dong II&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -709,11 +730,16 @@
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-68" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="74" y="1170" width="50" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-69" target="_af6l9Ji_gPzgk1q_AI6-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="48.16666666666674" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-69" value="Optimus Prime I&amp;nbsp;&lt;br&gt;(clanker)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-42" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_af6l9Ji_gPzgk1q_AI6-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-70" value="Megatron I&lt;div&gt;(clanker)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -777,6 +803,48 @@
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-88" value="Mason Sweeney" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-89" value="Deeksha Williams" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1506" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-93" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-432.25" y="1530" width="132.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-94" value="Kim Jung-il" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-392.75" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-96" value="Kim Jung-Un" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-100" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-16.833333333333258" y="1365" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-101" value="Danny clank I&lt;div&gt;(genetic mix)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-84.5" y="1408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-102" value="Optimal Prime II&lt;div&gt;(genetic mix)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="1408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-103" value="Maxim Dong (adopted)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-539.8" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-104" value="Jamal II" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-106" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-105">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-617.5" y="1600" as="sourcePoint" />
+            <mxPoint x="-642.5" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-107" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1335" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-108" value="touching bot mk. I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_af6l9Ji_gPzgk1q_AI6-109" value="gooning machine mk. I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
