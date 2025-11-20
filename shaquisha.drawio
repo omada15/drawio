@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="VGVHJwWEODLmAPMxaAkp">
-    <mxGraphModel dx="4024" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -650,6 +650,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-3j4XZsZ8QNg7UzksKFy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-430" y="1871.0526315789473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-3j4XZsZ8QNg7UzksKFy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="_af6l9Ji_gPzgk1q_AI6-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="78.05263157894751" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-67" value="Diddy Ding-Dong- Sins-Sincheblue-Sencheblue-Sinchecombs-Willietta VIII&lt;div&gt;Positive for all STDs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-255" y="1540" width="120" height="120" as="geometry" />
         </mxCell>
@@ -772,11 +782,6 @@
             <mxPoint x="240" y="1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_af6l9Ji_gPzgk1q_AI6-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_af6l9Ji_gPzgk1q_AI6-102" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="1730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-102" value="Optimal Prime II&lt;div&gt;(genetic mix)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="52" y="1408" width="120" height="60" as="geometry" />
         </mxCell>
@@ -857,11 +862,6 @@
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-134" value="Shlong Eradicator Mk. I" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="1550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_af6l9Ji_gPzgk1q_AI6-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_af6l9Ji_gPzgk1q_AI6-136" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205.33333333333303" y="1730" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-136" value="Shlong Eradicatess&lt;div&gt;(transgender) Mk. I&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="1650" width="120" height="60" as="geometry" />
@@ -960,11 +960,14 @@
         <mxCell id="_af6l9Ji_gPzgk1q_AI6-165" value="Grand Prince Tip gooning EspteinusNicholffrey&lt;div&gt;Xandra goon Tip&lt;/div&gt;&lt;div&gt;busting edger thrust&lt;/div&gt;&lt;div&gt;touching and gooning everywhere&amp;nbsp;&lt;/div&gt;&lt;div&gt;contracted 4 STD&#39;s At the age of 2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-650" y="425" width="120" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="0UaGeQ-nQXP4xXKmegnX-1" value="Richard Nixon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0UaGeQ-nQXP4xXKmegnX-1" value="Richard Nixon" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0UaGeQ-nQXP4xXKmegnX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.841;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0UaGeQ-nQXP4xXKmegnX-1" target="Zc8aFQpuToXCVCXsJ62N-37">
+        <mxCell id="0UaGeQ-nQXP4xXKmegnX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.841;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0UaGeQ-nQXP4xXKmegnX-1" target="Zc8aFQpuToXCVCXsJ62N-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-3j4XZsZ8QNg7UzksKFy-4" value="&lt;div&gt;From here, we observe the great separation of the Shaquisha family&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The three wings of the modern shaquisha tree are the Fentipsweengoon wing, the Sincheblue wing, and the Sencheblue wing.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Starting with some gambling&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-282" y="1920" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
